@@ -1,5 +1,5 @@
 # Space-Travel-Website
-Open **index.html** and enjoy visit to the virtual space 🌟🌟💫💫
+Open **index.html** and enjoy visit to the virtual space **OR** you can go through the website : https://space-travel-website-five.vercel.app/ 🌟🌟💫💫
 
 ![Space Travel Website and 3 more pages - Personal - Microsoft​ Edge 29-01-2022 7 55 59 PM (2)](https://user-images.githubusercontent.com/90052358/151665536-07512891-9424-48f8-98ae-9d05fdd50fef.png)
 
